@@ -13,6 +13,9 @@ const Navbar = () => {
                         width={46}
                         height={44}
                     />
+                  <span className="text-xl font-semibold text-[#9333EA] hover:opacity-90 transition-opacity duration-200">
+                        Audiora
+                    </span>
                 </div>
             </Link>
             <div className="flex items-center gap-8">
